@@ -1,0 +1,11 @@
+{
+  "name": "comunidad_segura",
+  "version": "1.0.0",
+  "description": "PACKAGE JSON for COMUNIDAD SEGURA page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Fernandez and Luis Hernandez",
+  "license": "ISC"
+}
